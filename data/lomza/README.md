@@ -1,1 +1,1 @@
-# Dane z RCN dla miasta Łódź
+# Dane z RCN dla miasta Łomża
